@@ -6,7 +6,11 @@ let package = Package(
     products: [
         .library(
             name: "Capacitor",
-            targets: ["Capacitor", "Cordova"]
+            targets: ["Capacitor"]
+        )
+        .library(
+            name: "Cordova",
+            targets: ["Cordova"]
         )
     ],
     dependencies: [],
