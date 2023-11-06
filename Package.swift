@@ -7,7 +7,7 @@ let package = Package(
         .library(
             name: "Capacitor",
             targets: ["Capacitor"]
-        )
+        ),
         .library(
             name: "Cordova",
             targets: ["Cordova"]
