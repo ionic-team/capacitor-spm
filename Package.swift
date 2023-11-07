@@ -18,7 +18,7 @@ let package = Package(
         .binaryTarget(
             name: "Capacitor",
             url: "https://github.com/ionic-team/capacitor6-spm-test/releases/download/6.0.0-alpha/Capacitor.xcframework.zip",
-            checksum: "bcfca4ea2c7fa51c181363f95198b82831f448073747dd1882f154769f3427d0"
+            checksum: "66d93e390e4fbbfde89fa83e8a8fc946540475d92bb606c21abc953229c50887"
         ),
         .binaryTarget(
             name: "Cordova",
