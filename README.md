@@ -1,3 +1,3 @@
-# capacitor6-spm-test
+# capacitor-spm
 
-This is a test repo we are using for testing Capacitor 6 SPM support - it will disappear soon.
+This repo holds the XCFramework Builds of Capacitor 6 Beta, RC, and final when they are released.
